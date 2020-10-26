@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\client",
+    "\\src\\client\\js",
+    "\\src\\client\\styles",
+    "\\src\\client\\views",
+    "\\src\\server"
+  ],
+  "SelectedNode": "\\package.json",
+  "PreviewInSolutionExplorer": false
+}
